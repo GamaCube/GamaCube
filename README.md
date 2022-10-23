@@ -8,7 +8,7 @@
   :busts_in_silhouette: Atualmente temos 30 membros
 </p>
 
-<div>
+<div align="center">
   <a href="https://github.com/GamaCube">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GamaCube&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&title_color=eea243&color=72a276&icon_color=eea243"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamaCube&layout=compact&langs_count=7&theme=gruvbox&title_color=eea243&color=72a276"/>
