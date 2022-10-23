@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=72a276&size=18&center=false&vCenter=false&width=1000&lines=OLÁ,+somos+a+GAMA+CUBEDESIGN!)](https://git.io/typing-svg)
 
 <p>
-  :books:	Somos uma equipe de extensão de satélites da Universidade de Brasília <br>
+  :books:	Somos uma equipe de extensão da Universidade de Brasília <br>
   :artificial_satellite: Desenvolvemos satélites CubeSats <br>
   :busts_in_silhouette: Atualmente temos 30 membros
 </p>
