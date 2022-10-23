@@ -1,13 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=72a276&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=72a276&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+somos+a+GAMA+CUBEDESIGN!;Somos+uma+equipe+de+extensão+da+UnB;Desenvolvemos+satélites+CubeSats;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GamaCube&show_icons=true&count_private=true&hide_border=true&title_color=034a2c&icon_color=72a276&text_color=c9d1d9&bg_color=0d1117" alt="Gama Cube Design github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamaCube&layout=compact&hide_border=true&title_color=034a2c&text_color=00bfbf&bg_color=0d1117" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=72a276&size=18&center=false&vCenter=false&width=1000&lines=OLÁ,+somos+a+GAMA+CUBEDESIGN!)](https://git.io/typing-svg)
+
+<p>
+  :books:	Somos uma equipe de extensão de satélites da Universidade de Brasília <br>
+  :artificial_satellite: Desenvolvemos satélites CubeSats <br>
+  :busts_in_silhouette: Atualmente temos 30 membros
+</p>
+
+<div>
+  <a href="https://github.com/GamaCube">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GamaCube&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&title_color=eea243&color=72a276&icon_color=eea243"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamaCube&layout=compact&langs_count=7&theme=gruvbox&title_color=eea243&color=72a276"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GamaCube&theme=vue&hide_border=true&area=true)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=GamaCube&theme=react-dark&hide_border=true&area=true&area_color=none&title_color=72a276&color=72a276&line=eea243)
 
   <a href="https://instagram.com/gamacubedesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/gamacubedesign" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
