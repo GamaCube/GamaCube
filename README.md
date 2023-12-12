@@ -1,25 +1,19 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=72a276&size=18&center=false&vCenter=false&width=1000&lines=OLÁ,+somos+a+GAMA+CUBEDESIGN!)](https://git.io/typing-svg)
-
-<p>
-  :books:	Somos uma equipe de extensão da Universidade de Brasília <br>
-  :artificial_satellite: Desenvolvemos satélites CubeSats <br>
-  :busts_in_silhouette: Atualmente temos 30 membros
-</p>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/GamaCube">
-  <img height="160em" src="https://bellomia-readme-stats.vercel.app/api?username=GamaCube&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&title_color=eea243&color=72a276&icon_color=eea243"/>
-  <img height="100em" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=GamaCube&layout=compact&langs_count=7&theme=gruvbox&title_color=eea243&color=72a276"/>
+## Gama CubeDesign
+<div align="justify">
+&emsp;Welcome to Gama CubeDesign, a team dedicated to technological development in nanosatellites, comprised of students from the Engineering programme at the University of Brasília (UnB), Campus Gama.
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GamaCube&theme=react-dark&hide_border=true&area=true&area_color=none&title_color=72a276&color=72a276&line=eea243)
+### About us
+<div align="justify">
+&emsp;Gama CubeDesign is a team passionate about space technology, committed to equipping engineering professionals for the aerospace sector. Our members are enthusiastic students from the University of Brasília, united by the desire to tackle real challenges and contribute to innovation in aerospace subsystems.
+</div>
 
-  <a href="https://instagram.com/gamacubedesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/gamacubedesign" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/company/gama-cubedesign/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### How to Get Involved
+<div align="justify">
+&emsp;If you are a student passionate about engineering and space, join us! Visit our physical space at the Gama Campus of UnB or get in touch via our email: <i>gamacubedesign@gmail.com</i>
+</div>
+
+### Acknowledgment
+<div align="justify">
+&emsp;Gama CubeDesign appreciates the ongoing support from the academic community, the University of Brasília, and all partners involved in our mission. Together, we are building the future of space technology.
+</div>
